@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1Clone", "Test1Clone\Test1Clone.csproj", "{00A3B300-0AD3-40A4-8C1D-FFE1504AEFE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test2Clone", "Test2Clone\Test2Clone.csproj", "{59030575-91EE-4DAF-A71A-BA8696AFE3CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{00A3B300-0AD3-40A4-8C1D-FFE1504AEFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00A3B300-0AD3-40A4-8C1D-FFE1504AEFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00A3B300-0AD3-40A4-8C1D-FFE1504AEFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59030575-91EE-4DAF-A71A-BA8696AFE3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59030575-91EE-4DAF-A71A-BA8696AFE3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59030575-91EE-4DAF-A71A-BA8696AFE3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59030575-91EE-4DAF-A71A-BA8696AFE3CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
